@@ -1,20 +1,21 @@
 # aqmen_data_science
 
-### This is an AQMEN repository for -  
-### Introduction to Data Science
-### An Introduction to Statistical Concepts for Data Analysis
+## This is an AQMEN repository for -  
+## Introduction to Data Science
+## An Introduction to Statistical Concepts for Data Analysis
 
 ### Stata Workshop (July 2018)
 
 ### A two day hands-on workshop led by Professor Vernon Gayle, University of Edinburgh.
 
-#### Topics: 
+>
+### Topics: 
 
 The course introduces participants to fundamental concepts in statistics, 
 rudimentary data analysis techniques and how to interpret results. 
 These skills are fundamental for the successful data analysis and data science.
 
-#### Rationale: 
+### Rationale: 
 
 There are many organisations that increasingly require employees to understand 
 data, and to analyse data using statistical methods. 
@@ -37,7 +38,7 @@ This course will provide a fast-track introduction for employees wishing to
 begin to analyse data.
 
 
-#### Reading List: 
+### Reading List: 
 
 #### Stata
 
@@ -53,7 +54,7 @@ Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press.
 https://www.amazon.co.uk/Data-Analysis-Using-Stata-Third/dp/1597181102/ref=sr_1_1?s=books&ie=UTF8&qid=1530725888&sr=1-1&keywords=kohler+and+kreuter
 _This is a first class text book. It is clearly written and very comprehensive and has successfully been used as a core textbook on several courses that I have taught._
 
-#### The Workflow
+#### Workflow
 
 Gayle, V.J. and Lambert, P.S. (2017) The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper. NCRM.
 http://eprints.ncrm.ac.uk/4000/
@@ -63,6 +64,23 @@ Long, J.S. and Long, J.S., 2009. The workflow of data analysis using Stata. Coll
 https://www.amazon.co.uk/Workflow-Data-Analysis-Using-Stata/dp/1597180475/ref=sr_1_1?s=books&ie=UTF8&qid=1530726163&sr=1-1&keywords=stata+workflow
 _A fantastic book. This is the 'bible' of good data analysis workflow practices._
 
+#### Longitudinal Data Analysis
+
+Gayle, V. and Lambert, P., 2018. What is Quantitative Longitudinal Data Analysis?. Bloomsbury Publishing.
+https://www.amazon.co.uk/Quantitative-Longitudinal-Analysis-Research-Methods/dp/1472515404/ref=sr_1_1?s=books&ie=UTF8&qid=1530726864&sr=1-1&keywords=vernon+gayle
+_My recent book on longitudinal data analysis (using Stata)._
 
 
+### Useful Stata Related Websites
 
+https://stats.idre.ucla.edu/stata/
+https://www.stata.com
+https://www.stata.com/links/resources-for-learning-stata/
+http://www.restore.ac.uk/Longitudinal/
+
+
+### Cheat Sheets (Stata)
+
+https://www.stata.com/links/resources-for-learning-stata/
+https://geocenter.github.io/StataTraining/portfolio/01_resource/
+https://www.datasciencecentral.com/group/resources/forum/topics/stata-cheat-sheet
