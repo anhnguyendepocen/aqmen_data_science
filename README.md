@@ -39,6 +39,8 @@ begin to analyse data.
 
 #### Reading List: 
 
+#### Stata
+
 Pevalin, D. and Karen, P.D.J.R., 2009. The Stata survival manual. McGraw-Hill Education (UK).
 https://www.amazon.co.uk/stata-survival-manual-Pevalin/dp/0335223885/ref=sr_1_1?ie=UTF8&qid=1530725105&sr=8-1&keywords=stata+survival+manual
 _Many students like this introductory textbook._
@@ -50,5 +52,17 @@ _This is a first class text book. It is clearly written and very comprehensive_
 Kohler, U. and Kreuter, F., 2012. Data analysis using Stata. Stata press.
 https://www.amazon.co.uk/Data-Analysis-Using-Stata-Third/dp/1597181102/ref=sr_1_1?s=books&ie=UTF8&qid=1530725888&sr=1-1&keywords=kohler+and+kreuter
 _This is a first class text book. It is clearly written and very comprehensive and has successfully been used as a core textbook on several courses that I have taught._
+
+#### The Workflow
+
+Gayle, V.J. and Lambert, P.S. (2017) The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper. NCRM.
+http://eprints.ncrm.ac.uk/4000/
+_A practical guide to the data analysis workflow._
+
+Long, J.S. and Long, J.S., 2009. The workflow of data analysis using Stata. College Station, TX: Stata Press.
+https://www.amazon.co.uk/Workflow-Data-Analysis-Using-Stata/dp/1597180475/ref=sr_1_1?s=books&ie=UTF8&qid=1530726163&sr=1-1&keywords=stata+workflow
+_A fantastic book. This is the 'bible' of good data analysis workflow practices._
+
+
 
 
