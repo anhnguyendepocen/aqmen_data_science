@@ -73,14 +73,14 @@ _My recent book on longitudinal data analysis (using Stata)._
 
 ### Useful Stata Related Websites
 
-https://stats.idre.ucla.edu/stata/
-https://www.stata.com
-https://www.stata.com/links/resources-for-learning-stata/
+https://stats.idre.ucla.edu/stata/  <br>
+https://www.stata.com  <br>
+https://www.stata.com/links/resources-for-learning-stata/  <br>
 http://www.restore.ac.uk/Longitudinal/
 
 
 ### Cheat Sheets (Stata)
 
-https://www.stata.com/links/resources-for-learning-stata/
-https://geocenter.github.io/StataTraining/portfolio/01_resource/
-https://www.datasciencecentral.com/group/resources/forum/topics/stata-cheat-sheet
+https://www.stata.com/links/resources-for-learning-stata/ <br>
+https://geocenter.github.io/StataTraining/portfolio/01_resource/  <br>
+https://www.datasciencecentral.com/group/resources/forum/topics/stata-cheat-sheet  <br>
