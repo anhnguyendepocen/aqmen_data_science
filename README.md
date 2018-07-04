@@ -39,3 +39,8 @@ begin to analyse data.
 
 #### Reading List: 
 
+Pevalin, D. and Karen, P.D.J.R., 2009. The Stata survival manual. McGraw-Hill Education (UK).
+https://www.amazon.co.uk/stata-survival-manual-Pevalin/dp/0335223885/ref=sr_1_1?ie=UTF8&qid=1530725105&sr=8-1&keywords=stata+survival+manual
+_Many students like this introductory textbook._
+
+
