@@ -41,6 +41,8 @@ begin to analyse data.
 
 ### Reading List: 
 
+These links are to Amazon (https://www.amazon.co.uk) but there are a number of other reputable academic book sellers (e.g. https://blackwells.co.uk/bookshop/shops/).
+
 #### Stata
 
 Pevalin, D. and Karen, P.D.J.R., 2009. The Stata survival manual. McGraw-Hill Education (UK).
