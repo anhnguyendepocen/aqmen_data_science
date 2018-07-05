@@ -39,7 +39,7 @@ This course will provide a fast-track introduction for employees wishing to
 begin to analyse data.
 
 
-### Reading List and Resources: 
+### Reading List: 
 
 #### Stata
 
